@@ -1,0 +1,5 @@
+version: STSv1
+mode: testing
+mx: mx1-us1.ppe-hosted.com
+mx: mx2-us1.ppe-hosted.com
+max_age: 86400
